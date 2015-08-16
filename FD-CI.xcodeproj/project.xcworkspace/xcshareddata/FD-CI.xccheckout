@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1A1F4430-ADEE-418B-91CE-869DD5A28DF2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FD-CI</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CD72E47AC92AE01DA76623836BDED6E8634665D0</key>
+		<string>https://github.com/pnvd11/face-detector-subclass.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FD-CI.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CD72E47AC92AE01DA76623836BDED6E8634665D0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pnvd11/face-detector-subclass.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CD72E47AC92AE01DA76623836BDED6E8634665D0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CD72E47AC92AE01DA76623836BDED6E8634665D0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>face-detector-subclass</string>
+		</dict>
+	</array>
+</dict>
+</plist>
